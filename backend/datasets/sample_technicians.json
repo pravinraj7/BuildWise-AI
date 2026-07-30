@@ -1,0 +1,289 @@
+[
+  {
+    "id": "tech001",
+    "employee_id": "EMP0001",
+    "full_name": "Rajesh Kumar",
+    "email": "rajesh.kumar@buildwise.ai",
+    "phone": "+91 7523084612",
+    "skills": [
+      "plumbing",
+      "electrical",
+      "fire_safety"
+    ],
+    "experience_years": 5,
+    "rating": 4.1,
+    "total_jobs": 441,
+    "completed_jobs": 379,
+    "performance_score": 87.0,
+    "status": "off_duty",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech002",
+    "employee_id": "EMP0002",
+    "full_name": "Priya Sharma",
+    "email": "priya.sharma@buildwise.ai",
+    "phone": "+91 7476076030",
+    "skills": [
+      "hvac",
+      "general",
+      "elevator"
+    ],
+    "experience_years": 15,
+    "rating": 4.5,
+    "total_jobs": 88,
+    "completed_jobs": 375,
+    "performance_score": 83.6,
+    "status": "off_duty",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech003",
+    "employee_id": "EMP0003",
+    "full_name": "Arjun Singh",
+    "email": "arjun.singh@buildwise.ai",
+    "phone": "+91 8833879716",
+    "skills": [
+      "it_network",
+      "hvac",
+      "plumbing"
+    ],
+    "experience_years": 3,
+    "rating": 3.9,
+    "total_jobs": 81,
+    "completed_jobs": 243,
+    "performance_score": 81.7,
+    "status": "off_duty",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech004",
+    "employee_id": "EMP0004",
+    "full_name": "Meena Patel",
+    "email": "meena.patel@buildwise.ai",
+    "phone": "+91 8109126346",
+    "skills": [
+      "hvac",
+      "civil"
+    ],
+    "experience_years": 3,
+    "rating": 4.2,
+    "total_jobs": 152,
+    "completed_jobs": 360,
+    "performance_score": 81.8,
+    "status": "busy",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech005",
+    "employee_id": "EMP0005",
+    "full_name": "Vikram Nair",
+    "email": "vikram.nair@buildwise.ai",
+    "phone": "+91 7465705342",
+    "skills": [
+      "elevator"
+    ],
+    "experience_years": 7,
+    "rating": 4.4,
+    "total_jobs": 104,
+    "completed_jobs": 274,
+    "performance_score": 91.5,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech006",
+    "employee_id": "EMP0006",
+    "full_name": "Sunita Reddy",
+    "email": "sunita.reddy@buildwise.ai",
+    "phone": "+91 7313186891",
+    "skills": [
+      "fire_safety"
+    ],
+    "experience_years": 15,
+    "rating": 3.5,
+    "total_jobs": 304,
+    "completed_jobs": 124,
+    "performance_score": 89.6,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech007",
+    "employee_id": "EMP0007",
+    "full_name": "Karthik Iyer",
+    "email": "karthik.iyer@buildwise.ai",
+    "phone": "+91 7162502787",
+    "skills": [
+      "elevator",
+      "hvac",
+      "plumbing"
+    ],
+    "experience_years": 11,
+    "rating": 4.9,
+    "total_jobs": 344,
+    "completed_jobs": 49,
+    "performance_score": 85.5,
+    "status": "off_duty",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech008",
+    "employee_id": "EMP0008",
+    "full_name": "Anita Joshi",
+    "email": "anita.joshi@buildwise.ai",
+    "phone": "+91 9107452219",
+    "skills": [
+      "elevator",
+      "civil"
+    ],
+    "experience_years": 3,
+    "rating": 4.3,
+    "total_jobs": 51,
+    "completed_jobs": 244,
+    "performance_score": 98.6,
+    "status": "busy",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech009",
+    "employee_id": "EMP0009",
+    "full_name": "Suresh Verma",
+    "email": "suresh.verma@buildwise.ai",
+    "phone": "+91 9070459171",
+    "skills": [
+      "it_network"
+    ],
+    "experience_years": 11,
+    "rating": 4.5,
+    "total_jobs": 255,
+    "completed_jobs": 76,
+    "performance_score": 89.0,
+    "status": "off_duty",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech010",
+    "employee_id": "EMP0010",
+    "full_name": "Deepa Rao",
+    "email": "deepa.rao@buildwise.ai",
+    "phone": "+91 7389411691",
+    "skills": [
+      "it_network",
+      "electrical"
+    ],
+    "experience_years": 15,
+    "rating": 4.6,
+    "total_jobs": 198,
+    "completed_jobs": 379,
+    "performance_score": 76.1,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech011",
+    "employee_id": "EMP0011",
+    "full_name": "Manoj Gupta",
+    "email": "manoj.gupta@buildwise.ai",
+    "phone": "+91 8649970409",
+    "skills": [
+      "civil",
+      "hvac",
+      "it_network"
+    ],
+    "experience_years": 13,
+    "rating": 4.8,
+    "total_jobs": 372,
+    "completed_jobs": 400,
+    "performance_score": 80.8,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech012",
+    "employee_id": "EMP0012",
+    "full_name": "Lakshmi Pillai",
+    "email": "lakshmi.pillai@buildwise.ai",
+    "phone": "+91 9717817798",
+    "skills": [
+      "civil",
+      "plumbing"
+    ],
+    "experience_years": 2,
+    "rating": 3.8,
+    "total_jobs": 418,
+    "completed_jobs": 351,
+    "performance_score": 77.2,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech013",
+    "employee_id": "EMP0013",
+    "full_name": "Rohan Das",
+    "email": "rohan.das@buildwise.ai",
+    "phone": "+91 9321653348",
+    "skills": [
+      "fire_safety",
+      "civil",
+      "general"
+    ],
+    "experience_years": 15,
+    "rating": 4.9,
+    "total_jobs": 58,
+    "completed_jobs": 66,
+    "performance_score": 80.2,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech014",
+    "employee_id": "EMP0014",
+    "full_name": "Kavitha Menon",
+    "email": "kavitha.menon@buildwise.ai",
+    "phone": "+91 7183887017",
+    "skills": [
+      "plumbing",
+      "general"
+    ],
+    "experience_years": 17,
+    "rating": 4.2,
+    "total_jobs": 397,
+    "completed_jobs": 322,
+    "performance_score": 74.5,
+    "status": "available",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  },
+  {
+    "id": "tech015",
+    "employee_id": "EMP0015",
+    "full_name": "Ajay Shetty",
+    "email": "ajay.shetty@buildwise.ai",
+    "phone": "+91 7309381429",
+    "skills": [
+      "hvac"
+    ],
+    "experience_years": 16,
+    "rating": 4.5,
+    "total_jobs": 291,
+    "completed_jobs": 364,
+    "performance_score": 71.4,
+    "status": "busy",
+    "shift_start": "09:00",
+    "shift_end": "18:00"
+  }
+]

@@ -1,0 +1,14 @@
+ : ndarray
+        Matrix exponential of A.
+    expm_frechet_AE : ndarray
+        Frechet derivative of the matrix exponential of A in the direction E.
+    For ``compute_expm = False``, only `expm_frechet_AE` is returned.
+
+    See Also
+    --------
+    expm : Compute the exponential of a matrix.
+
+    Notes
+    -----
+    This section describes the available implementations that can be selected
+    

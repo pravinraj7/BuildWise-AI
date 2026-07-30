@@ -1,0 +1,51 @@
+id,name,equipment_type,building,installation_date,last_maintenance_date,age_days,health_score,failure_probability,maintenance_count,total_cost,is_critical,status
+eq000,Electrical Panel Unit 1,electrical_panel,Admin Tower,2017-02-17T16:16:37.225556,2017-07-23T16:16:37.225556,3448,16.78,0.749,12,35583.86,True,degraded
+eq001,Hvac Unit 2,hvac,Shopping Complex G-Block,2022-01-13T16:16:37.225556,2022-04-07T16:16:37.225556,1657,65.03,0.438,11,38067.32,True,operational
+eq002,Ac Unit 3,ac,Shopping Complex G-Block,2023-12-24T16:16:37.226552,2024-08-30T16:16:37.226552,947,72.08,0.29,3,1313.1,False,maintenance
+eq003,Ac Unit 4,ac,Shopping Complex G-Block,2019-05-21T16:16:37.226552,2019-12-03T16:16:37.226552,2625,30.23,0.6,12,38958.46,True,maintenance
+eq004,Generator Unit 5,generator,Central Hospital Wing,2018-05-24T16:16:37.226552,2019-01-03T16:16:37.226552,2987,36.87,0.585,15,7296.74,True,degraded
+eq005,Electrical Panel Unit 6,electrical_panel,Central Hospital Wing,2021-05-11T16:16:37.226552,2021-11-10T16:16:37.226552,1904,52.24,0.393,7,36044.97,False,maintenance
+eq006,Pump Unit 7,pump,Shopping Complex G-Block,2020-12-11T16:16:37.226552,2021-03-05T16:16:37.226552,2055,56.19,0.339,10,42080.67,False,operational
+eq007,Fire System Unit 8,fire_system,Apartment Complex Phase 2,2022-04-29T16:16:37.226552,2023-01-04T16:16:37.226552,1551,52.67,0.545,4,15021.76,True,degraded
+eq008,Hvac Unit 9,hvac,Shopping Complex G-Block,2024-02-02T16:16:37.226552,2024-09-22T16:16:37.226552,907,62.49,0.333,7,16294.31,False,degraded
+eq009,Hvac Unit 10,hvac,Apartment Complex Phase 2,2024-10-20T16:16:37.226552,2025-03-01T16:16:37.226552,646,75.24,0.257,0,47650.23,False,operational
+eq010,Fire System Unit 11,fire_system,Shopping Complex G-Block,2017-02-18T16:16:37.226552,2017-08-16T16:16:37.226552,3447,14.43,0.769,15,6958.96,False,operational
+eq011,Electrical Panel Unit 12,electrical_panel,Engineering Block A,2018-09-11T16:16:37.226552,2018-12-28T16:16:37.226552,2877,28.16,0.776,14,49535.03,False,maintenance
+eq012,Boiler Unit 13,boiler,Shopping Complex G-Block,2020-02-02T16:16:37.226552,2020-11-17T16:16:37.226552,2368,34.17,0.732,1,39536.05,False,maintenance
+eq013,Ac Unit 14,ac,Apartment Complex Phase 2,2024-11-08T16:16:37.226552,2025-04-14T16:16:37.226552,627,74.31,0.228,1,28161.01,False,operational
+eq014,Boiler Unit 15,boiler,Apartment Complex Phase 2,2024-11-22T16:16:37.226552,2024-12-27T16:16:37.226552,613,85.77,0.087,7,22288.93,False,degraded
+eq015,Generator Unit 16,generator,Engineering Block A,2022-03-19T16:16:37.226552,2022-04-30T16:16:37.226552,1592,58.5,0.374,3,41565.89,True,operational
+eq016,Electrical Panel Unit 17,electrical_panel,Central Hospital Wing,2022-03-26T16:16:37.226552,2022-12-14T16:16:37.226552,1585,52.61,0.478,15,4881.15,False,operational
+eq017,Ac Unit 18,ac,Central Hospital Wing,2022-09-18T16:16:37.226552,2022-11-09T16:16:37.226552,1409,55.62,0.367,3,33856.97,True,operational
+eq018,Generator Unit 19,generator,Shopping Complex G-Block,2019-11-22T16:16:37.226552,2020-03-12T16:16:37.226552,2440,44.58,0.539,7,39887.79,True,operational
+eq019,Boiler Unit 20,boiler,Shopping Complex G-Block,2021-08-23T16:16:37.226552,2021-10-06T16:16:37.226552,1800,49.25,0.584,13,19441.79,True,operational
+eq020,Electrical Panel Unit 21,electrical_panel,Apartment Complex Phase 2,2017-08-23T16:16:37.226552,2017-10-24T16:16:37.226552,3261,23.23,0.828,5,18289.65,True,degraded
+eq021,Ac Unit 22,ac,Apartment Complex Phase 2,2023-02-20T16:16:37.226552,2023-11-27T16:16:37.226552,1254,64.37,0.384,12,30565.42,True,operational
+eq022,Hvac Unit 23,hvac,Central Hospital Wing,2016-08-06T16:16:37.226552,2017-04-27T16:16:37.226552,3643,14.79,0.915,2,33605.5,False,operational
+eq023,Pump Unit 24,pump,Apartment Complex Phase 2,2022-08-28T16:16:37.226552,2022-11-25T16:16:37.226552,1430,67.74,0.361,12,20911.96,True,maintenance
+eq024,Boiler Unit 25,boiler,Admin Tower,2021-05-03T16:16:37.226552,2021-09-05T16:16:37.226552,1912,52.03,0.487,5,24482.1,True,operational
+eq025,Hvac Unit 26,hvac,Engineering Block A,2016-08-21T16:16:37.226552,2017-05-08T16:16:37.226552,3628,15.05,0.923,15,6826.74,False,maintenance
+eq026,Fire System Unit 27,fire_system,Shopping Complex G-Block,2021-06-29T16:16:37.226552,2022-04-06T16:16:37.226552,1855,54.59,0.522,5,4133.53,True,operational
+eq027,Electrical Panel Unit 28,electrical_panel,Shopping Complex G-Block,2025-09-18T16:16:37.226552,2026-03-07T16:16:37.226552,313,89.24,0.065,15,27486.31,True,maintenance
+eq028,Ac Unit 29,ac,Shopping Complex G-Block,2023-01-28T16:16:37.226552,2023-09-02T16:16:37.226552,1277,63.62,0.415,6,49488.79,True,operational
+eq029,Electrical Panel Unit 30,electrical_panel,Engineering Block A,2025-09-19T16:16:37.226552,2026-06-06T16:16:37.226552,312,88.5,0.187,14,43264.52,True,operational
+eq030,Pump Unit 31,pump,Shopping Complex G-Block,2016-12-27T16:16:37.226552,2017-07-24T16:16:37.226552,3500,12.78,0.894,5,30807.56,True,operational
+eq031,Elevator Unit 32,elevator,Admin Tower,2019-09-08T16:16:37.226552,2020-04-04T16:16:37.226552,2515,39.05,0.629,10,48950.01,False,operational
+eq032,Electrical Panel Unit 33,electrical_panel,Shopping Complex G-Block,2020-04-23T16:16:37.226552,2020-07-10T16:16:37.226552,2287,51.55,0.535,1,49624.31,True,operational
+eq033,Pump Unit 34,pump,Shopping Complex G-Block,2024-06-09T16:16:37.226552,2024-12-20T16:16:37.226552,779,67.85,0.374,15,7108.58,False,degraded
+eq034,Boiler Unit 35,boiler,Engineering Block A,2021-01-04T16:16:37.226552,2021-03-13T16:16:37.226552,2031,46.71,0.609,12,25780.67,False,operational
+eq035,Fire System Unit 36,fire_system,Engineering Block A,2020-08-09T16:16:37.226552,2021-02-22T16:16:37.226552,2179,44.78,0.626,14,31742.03,False,operational
+eq036,Boiler Unit 37,boiler,Central Hospital Wing,2023-08-21T16:16:37.226552,2024-04-26T16:16:37.226552,1072,62.06,0.378,9,16887.76,True,maintenance
+eq037,Fire System Unit 38,fire_system,Engineering Block A,2017-03-29T16:16:37.226552,2017-10-20T16:16:37.226552,3408,13.96,0.913,3,31308.98,False,operational
+eq038,Ac Unit 39,ac,Shopping Complex G-Block,2024-04-22T16:16:37.226552,2025-01-02T16:16:37.226552,827,74.33,0.355,6,49784.7,True,operational
+eq039,Generator Unit 40,generator,Central Hospital Wing,2023-01-03T16:16:37.226552,2023-03-21T16:16:37.226552,1302,60.87,0.341,5,2589.36,False,operational
+eq040,Boiler Unit 41,boiler,Shopping Complex G-Block,2018-09-24T16:16:37.226552,2018-12-09T16:16:37.226552,2864,28.65,0.614,2,6634.99,True,maintenance
+eq041,Fire System Unit 42,fire_system,Shopping Complex G-Block,2025-12-22T16:16:37.226552,2026-01-25T16:16:37.226552,218,81.73,0.246,4,23885.01,True,degraded
+eq042,Ac Unit 43,ac,Central Hospital Wing,2017-11-19T16:16:37.226552,2018-02-09T16:16:37.226552,3173,34.48,0.629,4,19136.05,True,operational
+eq043,Ac Unit 44,ac,Central Hospital Wing,2020-02-18T16:16:37.226552,2020-03-23T16:16:37.226552,2352,40.75,0.525,6,31404.0,True,degraded
+eq044,Fire System Unit 45,fire_system,Engineering Block A,2023-08-24T16:16:37.226552,2023-11-06T16:16:37.226552,1069,60.69,0.321,12,17576.78,False,operational
+eq045,Generator Unit 46,generator,Apartment Complex Phase 2,2023-04-21T16:16:37.226552,2023-10-09T16:16:37.226552,1194,63.23,0.317,9,38948.48,True,operational
+eq046,Pump Unit 47,pump,Engineering Block A,2020-04-10T16:16:37.226552,2021-01-25T16:16:37.226552,2300,50.23,0.476,7,24744.39,True,operational
+eq047,Fire System Unit 48,fire_system,Central Hospital Wing,2018-12-04T16:16:37.226552,2019-02-08T16:16:37.226552,2793,33.57,0.76,10,6599.14,False,operational
+eq048,Generator Unit 49,generator,Engineering Block A,2017-07-11T16:16:37.226552,2018-04-08T16:16:37.226552,3304,14.83,0.906,2,689.67,True,operational
+eq049,Elevator Unit 50,elevator,Apartment Complex Phase 2,2017-03-25T16:16:37.226552,2017-11-13T16:16:37.226552,3412,21.63,0.809,13,21178.76,False,operational
