@@ -233,6 +233,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
+Developed by Pravin raj TN & team.
+
+---
+
 <div align="center">
 Built with ❤️ for intelligent building management<br/>
 <strong>BuildWise AI</strong> — Making buildings smarter, one complaint at a time.
